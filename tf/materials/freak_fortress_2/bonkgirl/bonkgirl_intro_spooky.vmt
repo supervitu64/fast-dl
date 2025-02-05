@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/bonkgirl/bonkgirl_intro_spooky"
+	"$translucent" 	  1
+	"$ignorez"     	 "1"
+    "$no_fullbright" "1"
+}

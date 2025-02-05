@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/player/female_scout/scout_hands_normal"
+	"$translucent" 1
+}

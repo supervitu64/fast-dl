@@ -1,0 +1,6 @@
+"Refract"
+{
+	"$basetexture" "freak_fortress_2/bonkgirl/intro"
+	"$normalmap" "freak_fortress_2/bonkgirl/intro"
+	"$translucent" 1
+}

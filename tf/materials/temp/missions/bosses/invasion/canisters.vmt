@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "temp/missions/bosses/invasion/canisters"
+	"$bumpmap" "temp/missions/bosses/invasion/canisters_normal"
+	"$selfillummask" "temp/missions/bosses/invasion/canisters_selfillum"
+	"$lightwarptexture" "models/lightwarps/robot_lightwarp"
+	"$selfillum" "1"
+	
+	//"$translucent" "1"
+	"$additive" "1"
+	
+	"$phong" "1"
+    "$phongexponent" "15"
+    "$phongboost" "3"
+    "$phongfresnelranges"    "[1 1.5 1]"
+	
+	"$rimlight"		"1"
+	"$rimlightexponent"		"4"
+	"$rimlightboost"		"4"
+	"$rimmask"		"1"
+	
+	"$phongtint" "[0.3 0.7 0.7]"
+}

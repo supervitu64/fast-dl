@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "temp\missions\background\invasion\catapult\Catapult"
+	"$bumpmap" "temp\missions\background\invasion\catapult\Catapult_normal"
+}

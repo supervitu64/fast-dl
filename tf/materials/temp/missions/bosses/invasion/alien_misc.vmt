@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "temp/missions/bosses/invasion/alien_misc"
+	"$selfillummask" "temp/missions/bosses/invasion/alien_misc_selfillum"
+	"$lightwarptexture" "models/lightwarps/robot_lightwarp"
+	"$selfillum" "1"
+	
+	"$phong" "1"
+    "$phongexponent" "15"
+    "$phongboost" "3"  
+    "$phongfresnelranges"    "[1 1.5 1]"
+	"$basemapalphaphongmask" "1"
+	
+	"$rimlight"		"1"
+	"$rimlightexponent"		"4"
+	"$rimlightboost"		"4"
+	"$rimmask"		"1"
+	
+	"$phongtint" "[0.3 0.7 0.7]"
+}

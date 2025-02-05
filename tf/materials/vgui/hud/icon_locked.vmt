@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "temp/hud/icon_locked"
+	"$translucent" 1
+	"$alpha" 1
+	"$vertexalpha" "1"
+	"$ignorez"     "1"
+	"$no_fullbright" "1"	
+	"$vertextcolor" "1"
+	"nomip" "1"
+    "nocompress" "1"
+    "nolod" "1"
+}
