@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+"$basetexture" "freak_fortress_2/mlgspy/frame"
+"startframe" "0"
+"endframe" "24"
+
+"Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "15" 
+}
+} 
+}
